@@ -1,4 +1,0 @@
-interface:
-  display_name: "Nuxt Design System"
-  short_description: "Build coherent Nuxt UI foundations"
-  default_prompt: "Use $nuxt-design-system to define or refine reusable UI foundations for this Nuxt application."

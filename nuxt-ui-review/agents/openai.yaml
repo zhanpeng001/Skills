@@ -1,4 +1,0 @@
-interface:
-  display_name: "Nuxt UI Review"
-  short_description: "Audit and refine existing Nuxt UI"
-  default_prompt: "Use $nuxt-ui-review to audit this Nuxt interface and implement the highest-impact improvements."
