@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nuxt Frontend Design"
+  short_description: "Design polished Nuxt interfaces with intent"
+  default_prompt: "Use $nuxt-frontend-design to build a distinctive production-ready Nuxt interface for this feature."
